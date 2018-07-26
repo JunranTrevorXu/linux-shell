@@ -1,0 +1,24 @@
+Features that work: 
+	lex and yacc
+	simple commands execution
+	file redirection
+	pipes
+	ctrl-c
+	exit
+	builtins
+	wildcarding
+	zombie killing
+	quotes
+	escaping
+	environment variable expansion
+	tilde expansion
+	isatty
+	subshells
+	variable prompt
+	.shellrc
+
+Features that do not work:
+	edit mode
+	history
+	path completion
+	ctrl-z
